@@ -1,0 +1,29 @@
+{
+  "generic": [
+    {
+      "response_type": "text",
+      "selection_policy": "sequential",
+      "repeat_on_reprompt": false,
+      "values": [
+        {
+          "text_expression": {
+            "concat": [
+              {
+                "scalar": "**🔍 Personalized 6-Month Roadmap: AI + Cybersecurity Beginner**\n\n📅 **Month 1-2: Fundamentals**\n- Learn Python programming basics\n- Understand AI concepts (types, use cases)\n- Grasp cybersecurity foundations\n- Tools: Jupyter Notebook, VirtualBox\n- Platforms: Coursera, Khan Academy\n- Certs: CompTIA ITF+"
+              },
+              {
+                "scalar": "\n\n📅 **Month 3-4: Intermediate Skills**\n- Study Machine Learning (Supervised/Unsupervised)\n- Intro to Deep Learning & Neural Networks\n- Learn about cryptography, firewalls, and ethical hacking\n- Tools: TensorFlow, Wireshark, Nmap\n- Courses: Udemy ML Specialization, Cybrary\n- Certs: CEH (Certified Ethical Hacker), Security+"
+              },
+              {
+                "scalar": "\n\n📅 **Month 5: Specialization Track**\n- AI: Choose NLP, Computer Vision, or Robotics\n- Cybersecurity: Choose Network Defense or Digital Forensics\n- Join communities: StackOverflow, Reddit, IBM Community"
+              },
+              {
+                "scalar": "\n\n📅 **Month 6: Real-World Practice**\n- Build AI/Cyber projects\n- Platforms: GitHub, Kaggle, TryHackMe\n- Document learning on LinkedIn or a blog\n\n🎯 **Pro Tip:** Apply what you learn weekly, contribute to GitHub, and showcase your certifications on LinkedIn."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
